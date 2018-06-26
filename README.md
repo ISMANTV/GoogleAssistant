@@ -1,5 +1,5 @@
 # GoogleAssistant
-Google Assistant Privacy Policy
+Google Assistant Privacy Policy --
 Privacy Policy for President Trivia Game on the Google Assistant
 
 The content for President Trivia Game has been developed by ISMAN CR. However, President Trivia Game runs on systems provided by Google, and ISMAN CR does not have full access to the app. In particular, ISMAN CR has no ability to access the messages you send to President Trivia Game or the responses that it sends back to you.
